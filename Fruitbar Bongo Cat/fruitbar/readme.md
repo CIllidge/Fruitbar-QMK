@@ -1,12 +1,7 @@
 # Fruitbar
-
-![Fruitbar](https://assets.bigcartel.com/product_images/303351993/_MG_2855.JPG?auto=format&fit=max&w=1000)
-
-Fruitbar is a fun introduction to 40% keyboards that keeps the simplicity of a DIY kit and the compatability of larger mods / base-kit  
-
-* Keyboard Maintainer: [Fruit](https://github.com/blewis308)
-* Hardware Supported: Fruitbar (source not available at this time)
-* Hardware Availability: Groupbuy in Fall 2021.
+Here are the QMK files for the fruitbar keyboard orignally run by: [Fruit](https://github.com/blewis308)
+I have created these files to make the encoder work as the orignal one didn't, and I have added code to have an animated bongo cat
+on the OLED screen. These files are also updated to the latest QMK MSYS at the time it was made. 
 
 Make example for this keyboard (after setting up your build environment):
 
